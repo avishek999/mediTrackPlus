@@ -72,4 +72,4 @@ We built MediTrack+ to be:
 # Clone the repo
 git clone https://github.com/avishek999/mediTrackPlus.git
 
-# Navigate to the frontend/backend folders and follow setup instructions
+
