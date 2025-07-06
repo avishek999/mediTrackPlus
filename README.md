@@ -70,6 +70,6 @@ We built MediTrack+ to be:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/meditrack-plus.git
+git clone https://github.com/avishek999/mediTrackPlus.git
 
 # Navigate to the frontend/backend folders and follow setup instructions
